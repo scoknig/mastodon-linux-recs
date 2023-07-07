@@ -1,0 +1,19 @@
+recommendation,votes,class
+Lubuntu,2,distro
+Linux Mint,17,distro
+Zorin OS,0,distro
+NixOS,5,distro
+EndeavourOS,2,distro
+Arch,4,distro
+Fedora,5,distro
+Manjaro,3,distro
+Debian,4,distro
+Ubuntu,2,distro
+Devuan,1,distro
+openSUSE,1,distro
+Void Linux,1,distro
+Crystal Linux,1,distro
+GNOME,1,desktop
+i3,1,desktop
+XFCE,1,desktop
+KDE Plasma,2,desktop
